@@ -22,24 +22,6 @@ This dashboard is designed to help HR teams:
 - `/docs/screenshots/` — screenshots of the dashboard visuals  
 - `/data/` — sample datasets used for building the dashboard  
 
-## Screenshots
-
-### Job Satisfaction
-![Job Satisfaction](docs/screenshots/job_satisfaction.png)
-
-### Performance Rating
-![Performance Rating](docs/screenshots/performance_rating.png)
-
-### Employee Count by Gender
-![Count by Gender](docs/screenshots/count_by_gender.png)
-
-### Employee Count by Location
-![Count by Location](docs/screenshots/count_by_location.png)
-
-### Average Monthly Income
-![Average Monthly Income](docs/screenshots/avg_monthly_income.png)
-
----
 
 ## How to Use
 1. Download `HR_Workforce_Dashboard.pbix` and open in Power BI Desktop.  
